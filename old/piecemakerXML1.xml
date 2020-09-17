@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Piecemaker>
+  <Settings>
+    <imageWidth>700</imageWidth>
+    <imageHeight>350</imageHeight>
+    <segments>7</segments>
+    <tweenTime>1.2</tweenTime>
+    <tweenDelay>0.1</tweenDelay>
+    <tweenType>easeInOutBack</tweenType>
+    <zDistance>0</zDistance>
+    <expand>20</expand>
+    <innerColor>0x111111</innerColor>
+    <textBackground>0x0064C8</textBackground>
+    <shadowDarkness>100</shadowDarkness>
+    <textDistance>25</textDistance>
+    <autoplay>12</autoplay>
+  </Settings>
+  <Image Filename="image1.png">
+    <Text>
+      <headline>Charming Prince </headline>
+      <break>Ӂ</break>
+      <paragraph></paragraph>
+      <break>Ӂ</break>
+      <inline></inline>
+      <a href="#" target="_blank"></a>
+      <paragraph></paragraph>
+    </Text>
+  </Image>
+  <Image Filename="image2.png">
+    <Text>
+      <headline>Road Vs Ball</headline>
+      <break>Ӂ</break>
+      <paragraph>Ball "Pheebie" had stepped out from home to an amazing journey of the Road.</paragraph>
+      <break>Ӂ</break>
+      <inline>Make the ball move through the alleys and use magical power bonuses to make things go prettier ! Download it for android.</inline>
+      <a href="https://play.google.com/store/apps/details?id=com.jumpingpixel.roadvsballfree" target="_blank">Play Store</a>
+      <paragraph>. Enjoy Playing,Get immersed.</paragraph>
+    </Text>
+  </Image>
+  <Image Filename="image3.png">
+    <Text>
+      <headline>Impossible Maze </headline>
+      <break>Ӂ</break>
+      <paragraph></paragraph>
+      <break>Ӂ</break>
+      <inline></inline>
+      <a href="#" target="_blank"></a>
+      <paragraph></paragraph>
+    </Text>
+  </Image>
+  <Image Filename="image4.png">
+    <Text>
+      <headline>Impossible Maze </headline>
+      <break>Ӂ</break>
+      <paragraph></paragraph>
+      <break>Ӂ</break>
+      <inline></inline>
+      <a href="#" target="_blank"></a>
+      <paragraph></paragraph>
+    </Text>
+  </Image>
+  <Image Filename="image5.png">
+    <Text>
+      <headline>Impossible Maze </headline>
+      <break>Ӂ</break>
+      <paragraph></paragraph>
+      <break>Ӂ</break>
+      <inline></inline>
+      <a href="#" target="_blank"></a>
+      <paragraph></paragraph>
+    </Text>
+  </Image>
+  
+</Piecemaker>

@@ -1,0 +1,1 @@
+<div id='sensor-tower-app-widget' ><script type='text/javascript' src='https://sensortower.com/api/ios/widget/ios/US/jumping-pixel-games/app/road-racer-retro/944140386/298/rating/current/date/install/js'></script>
